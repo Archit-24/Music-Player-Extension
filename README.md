@@ -7,9 +7,7 @@ Chrometune is a sleek and lightweight Chrome extension that transforms your brow
 - Seamless integration with Chrome browser.
 - Play, pause, skip, and control volume directly from the browser toolbar.
 - Access to a vast library of music from popular streaming platforms.
-- Customizable themes to match your browsing style.
 - Minimalist design for a distraction-free experience.
-- Keyboard shortcuts for quick and convenient control.
 
 ## Installation
 
@@ -22,22 +20,9 @@ Chrometune is a sleek and lightweight Chrome extension that transforms your brow
 
 1. After installation, you'll see the Chrometune icon in the Chrome toolbar.
 2. Click on the icon to open the music player interface.
-3. Sign in to your favorite streaming platform account to access your playlists and saved songs.
+3. Search for your song that you want to listen.
 4. Use the playback controls to play, pause, skip, and adjust volume.
-5. Customize your experience by selecting different themes from the settings menu.
-6. Enjoy your favorite tunes while browsing the web!
-
-## Keyboard Shortcuts
-
-- Play/Pause: `Ctrl + Shift + P`
-- Next Track: `Ctrl + Shift + N`
-- Previous Track: `Ctrl + Shift + B`
-- Volume Up: `Ctrl + Shift + Arrow Up`
-- Volume Down: `Ctrl + Shift + Arrow Down`
-
-## Support
-
-For any questions, feedback, or issues, please contact us at support@chrometune.com.
+5. Enjoy your favorite tunes while browsing the web!
 
 ## Contributing
 
@@ -49,5 +34,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-Special thanks to the developers of [name of the streaming platform(s)] for providing access to their APIs and making this project possible.
+Special thanks to the developers of `Spotify` for providing access to their APIs and making this project possible.
 
