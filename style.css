@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 400px;
+    background-image: linear-gradient(to bottom right, rgb(0, 255, 251), rgb(0, 85, 255));
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+.container {
+    max-width: 320px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+input[type="text"] {
+    width: 70%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    outline: none;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    background-image: linear-gradient(to bottom right, rgb(0, 255, 251), rgb(0, 85, 255));
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+#player {
+    color: white;
+    margin-top: 20px;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}

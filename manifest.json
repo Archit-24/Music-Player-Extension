@@ -1,0 +1,16 @@
+{
+    "name": "Music Player",
+    "description": "A Comfortable Music Player extension which enables us to dive into the world of unlimited musics without ads.  ",
+    "version": "2.0",
+    "manifest_version": 3,
+    "permissions": ["activeTab"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "img.png"
+    },
+    "icons": {
+      "16": "img.png",
+      "32": "img.png",
+      "48": "img.png"
+    }
+}
