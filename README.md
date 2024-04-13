@@ -24,6 +24,10 @@ Chrometune is a sleek and lightweight Chrome extension that transforms your brow
 4. Use the playback controls to play, pause, skip, and adjust volume.
 5. Enjoy your favorite tunes while browsing the web!
 
+## Images
+
+![SS1](https://github.com/Archit-24/Music-Player-Extension/assets/155532480/cdf211cd-a3e6-4681-99c4-60549d2080f1)
+
 ## Contributing
 
 We welcome contributions from the community. If you'd like to contribute to Chrometune Music Player, please fork the repository and submit a pull request with your changes.
