@@ -1,4 +1,4 @@
-const client_secret='83be17423c8a499988659b0340e5e8cc';
+const client_secret='Your';
 app.get('/callback', function(req, res) {
   var code = req.query.code || null;
   var state = req.query.state || null;
