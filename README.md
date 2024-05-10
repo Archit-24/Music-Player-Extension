@@ -28,7 +28,9 @@ Chrometune is a sleek and lightweight Chrome extension that transforms your brow
 
 ![SS1](https://github.com/Archit-24/Music-Player-Extension/assets/155532480/cdf211cd-a3e6-4681-99c4-60549d2080f1)
 
-![SS2](https://github.com/Archit-24/Music-Player-Extension/assets/155532480/bdd8b0e7-e48a-401e-88f3-cc7d2647f358)
+<p align="center">
+  <img width="460" height="300" src="![SS2](https://github.com/Archit-24/Music-Player-Extension/assets/155532480/bdd8b0e7-e48a-401e-88f3-cc7d2647f358)">
+</p>
 
 ![SS3](https://github.com/Archit-24/Music-Player-Extension/assets/155532480/49fb7315-e3b1-4816-8f83-93877da8e5f1)
 
